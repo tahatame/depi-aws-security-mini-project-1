@@ -1,10 +1,13 @@
+## Architecture Overview (مخطط البنية التحتية)
+
+![AWS VPC Architecture](screenshots/architecture-diagram/AWS%20VPC%20Web%20Application%20Architecture.png)
 # Secure AWS Web Platform Built with Terraform (DEPI Mini Project 1)
 
 مشروع تطبيقي متكامل لبناء منصة ويب آمنة وعالية التوافر على منصة AWS باستخدام أداة **Terraform** كبنية تحتية ككود (Infrastructure as Code)، مع الالتزام بأفضل الممارسات الأمنية (AWS Security Best Practices) والتحكم بالميزانية ($10 Budget Limit).
 
 ---
 
-## 📐 Architecture Overview (مخطط البنية التحتية)
+## Architecture Overview (مخطط البنية التحتية)
 
 تم تصميم البنية التحتية لتكون معزولة ومؤمنة بالكامل على عدة مستويات شبكية وتخزينية:
 
@@ -31,7 +34,7 @@
 
 ---
 
-## 📂 Project Directory Structure (هيكل المشروع)
+##  Project Directory Structure (هيكل المشروع)
 
 ```text
 depi-aws-security-mini-project-1/
@@ -67,7 +70,7 @@ depi-aws-security-mini-project-1/
     └── versions.tf      # Terraform Required Providers & Versions
 
 
-    ## 🚀 Deployment Instructions (خطوات التشغيل التفصيلية)
+    ## Deployment Instructions (خطوات التشغيل التفصيلية)
 
 ### 1. المتطلبات الأساسية (Prerequisites)
 
