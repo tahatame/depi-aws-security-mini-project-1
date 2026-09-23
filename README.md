@@ -1,4 +1,4 @@
-## Architecture Overview (مخطط البنية التحتية)
+##  Architecture Overview (مخطط البنية التحتية)
 
 ![AWS VPC Architecture](screenshots/architecture-diagram/AWS%20VPC%20Web%20Application%20Architecture.png)
 # Secure AWS Web Platform Built with Terraform (DEPI Mini Project 1)
